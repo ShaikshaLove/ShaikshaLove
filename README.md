@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaikshaLove
-- 👀 I’m interested in building enterprise apps using Java Stack
-- 🌱 I’m currently learning Microservice Architecture 
+- 👀 I build enterprise apps using Java Stack
+- 🌱 I’m currently working on Microservice Architecture 
 
 <!---
 ShaikshaLove/ShaikshaLove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
